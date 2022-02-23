@@ -1,4 +1,4 @@
-var request = require('request');
+//var request = require('request');
 var base_url = "http://api-ingress:8080/";    
 
 describe("When testing 'api/products/1'", function(){
